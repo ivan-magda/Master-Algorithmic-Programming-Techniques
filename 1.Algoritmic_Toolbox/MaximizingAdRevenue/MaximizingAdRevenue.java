@@ -1,8 +1,6 @@
-package com.ivanmagda;
-
 import java.util.Scanner;
 
-public class Main {
+public class MaximizingAdRevenue {
 
     private static long maxDotProduct(long[] a, long[] b) {
         bubbleSort(a);

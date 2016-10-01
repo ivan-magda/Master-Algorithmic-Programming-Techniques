@@ -1,5 +1,3 @@
-package com.ivanmagda;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 

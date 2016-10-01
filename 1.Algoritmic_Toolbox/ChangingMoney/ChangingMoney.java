@@ -1,8 +1,6 @@
-package com.ivanmagda;
-
 import java.util.Scanner;
 
-public class Main {
+public class ChangingMoney {
 
     private static int getChange(int m) {
         if (m < 1) return 0;
