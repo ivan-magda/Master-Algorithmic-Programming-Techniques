@@ -1,0 +1,3 @@
+# Programming Assignment 2: Greedy Algorithms
+
+In this programming assignment, you will be practicing implementing greedy solutions. As usual, in some code problems you just need to implement an algorithm covered in the lectures while for some others your goal will be to first design an algorithm and then to implement it. Thus, you will be practicing designing an algorithm, proving that it is correct, and implementing it.
