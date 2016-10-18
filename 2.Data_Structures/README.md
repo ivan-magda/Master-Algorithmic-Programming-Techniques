@@ -5,6 +5,7 @@ A good algorithm usually comes together with a set of good data structures that 
 
 
 A few examples of questions that we are going to cover in this class are the following:
+
 1. What is a good strategy of resizing a dynamic array?
 2. How priority queues are implemented in C++, Java, and Python?
 3. How to implement a hash table so that the amortized running time of all operations is O(1) on average?
