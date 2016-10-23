@@ -20,7 +20,7 @@ Note that all the elements of the input array are distinct. Note that any sequen
 Input:
 ```
 5
-54321
+5 4 3 2 1
 ```
 Output:
 ```
