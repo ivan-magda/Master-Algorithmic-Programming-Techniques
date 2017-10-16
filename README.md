@@ -8,8 +8,3 @@ If you are a current Master Algorithmic Programming Techniques student at Course
 
 ## Specialization Description
 The Specialization covers algorithmic techniques for solving problems arising in computer science applications. It is a mix of theory and practice: you will not only design algorithms and estimate their complexity, but you will get a deeper understanding of algorithms by implementing them in the programming language of your choice.
-
-
-
-
-
